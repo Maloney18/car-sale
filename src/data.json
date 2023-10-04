@@ -1,0 +1,901 @@
+[
+    {
+        "id": 1,
+        "make": "Lamborghini",
+        "model":"350 GT",
+        "year": "1964",
+        "fuel_consumption": "5.56km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/1964-Lamborghini-350-GT-V1-1080-1400x788.jpg",
+        "rent_price": "$250",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 2,
+        "make": "Lamborghini",
+        "model":"Diablo",
+        "year": "1990",
+        "fuel_consumption": "5.88km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/Lamborghini-Diablo-1400x788.jpg",
+        "rent_price": "$330",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 3,
+        "make": "Alfa Romeo",
+        "model":"4C Spider",
+        "year": "2015",
+        "fuel_consumption": "14.47km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 4,
+        "make": "Alfa Romeo",
+        "model":"147 GTA",
+        "year": "2003",
+        "fuel_consumption": "7.94km / 1-litre",
+        "no_of_seats": "5",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$300",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 5,
+        "make": "Toyota",
+        "model":"RAV 4",
+        "year": "2021",
+        "fuel_consumption": "6.1km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$440",
+        "fuel_type": "Hybrid",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 6,
+        "make": "BMW",
+        "model":"3 Series",
+        "year": "2019",
+        "fuel_consumption": "8.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 7,
+        "make": "Volkswagen",
+        "model":"T-Cross",
+        "year": "2020",
+        "fuel_consumption": "5.3km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$400",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 8,
+        "make": "Cadillac",
+        "model":"Escalade",
+        "year": "2020",
+        "fuel_consumption": "7.7km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$620",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 9,
+        "make": "BMW",
+        "model":"4 Series GTI",
+        "year": "2021",
+        "fuel_consumption": "7.6km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$530",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 10,
+        "make": "BMW",
+        "model":"4 Series",
+        "year": "2019",
+        "fuel_consumption": "7.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$490",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 11,
+        "make": "Lamborghini",
+        "model":"350 GT",
+        "year": "1964",
+        "fuel_consumption": "5.56km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/1964-Lamborghini-350-GT-V1-1080-1400x788.jpg",
+        "rent_price": "$250",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 12,
+        "make": "Lamborghini",
+        "model":"Diablo",
+        "year": "1990",
+        "fuel_consumption": "5.88km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/Lamborghini-Diablo-1400x788.jpg",
+        "rent_price": "$330",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 13,
+        "make": "Alfa Romeo",
+        "model":"4C Spider",
+        "year": "2015",
+        "fuel_consumption": "14.47km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 14,
+        "make": "Alfa Romeo",
+        "model":"147 GTA",
+        "year": "2003",
+        "fuel_consumption": "7.94km / 1-litre",
+        "no_of_seats": "5",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$300",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 15,
+        "make": "Toyota",
+        "model":"RAV 4",
+        "year": "2021",
+        "fuel_consumption": "6.1km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$440",
+        "fuel_type": "Hybrid",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 16,
+        "make": "BMW",
+        "model":"3 Series",
+        "year": "2019",
+        "fuel_consumption": "8.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 17,
+        "make": "Volkswagen",
+        "model":"T-Cross",
+        "year": "2020",
+        "fuel_consumption": "5.3km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$400",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 18,
+        "make": "Cadillac",
+        "model":"Escalade",
+        "year": "2020",
+        "fuel_consumption": "7.7km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$620",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 19,
+        "make": "BMW",
+        "model":"4 Series GTI",
+        "year": "2021",
+        "fuel_consumption": "7.6km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$530",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 20,
+        "make": "BMW",
+        "model":"4 Series",
+        "year": "2019",
+        "fuel_consumption": "7.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$490",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 21,
+        "make": "Lamborghini",
+        "model":"350 GT",
+        "year": "1964",
+        "fuel_consumption": "5.56km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/1964-Lamborghini-350-GT-V1-1080-1400x788.jpg",
+        "rent_price": "$250",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 22,
+        "make": "Lamborghini",
+        "model":"Diablo",
+        "year": "1990",
+        "fuel_consumption": "5.88km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/Lamborghini-Diablo-1400x788.jpg",
+        "rent_price": "$330",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 23,
+        "make": "Alfa Romeo",
+        "model":"4C Spider",
+        "year": "2015",
+        "fuel_consumption": "14.47km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 24,
+        "make": "Alfa Romeo",
+        "model":"147 GTA",
+        "year": "2003",
+        "fuel_consumption": "7.94km / 1-litre",
+        "no_of_seats": "5",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$300",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 25,
+        "make": "Toyota",
+        "model":"RAV 4",
+        "year": "2021",
+        "fuel_consumption": "6.1km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$440",
+        "fuel_type": "Hybrid",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 26,
+        "make": "BMW",
+        "model":"3 Series",
+        "year": "2019",
+        "fuel_consumption": "8.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 27,
+        "make": "Volkswagen",
+        "model":"T-Cross",
+        "year": "2020",
+        "fuel_consumption": "5.3km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$400",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 28,
+        "make": "Cadillac",
+        "model":"Escalade",
+        "year": "2020",
+        "fuel_consumption": "7.7km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$620",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 29,
+        "make": "BMW",
+        "model":"4 Series GTI",
+        "year": "2021",
+        "fuel_consumption": "7.6km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$530",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 30,
+        "make": "BMW",
+        "model":"4 Series",
+        "year": "2019",
+        "fuel_consumption": "7.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$490",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    }, 
+
+    {
+        "id": 31,
+        "make": "Lamborghini",
+        "model":"350 GT",
+        "year": "1964",
+        "fuel_consumption": "5.56km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/1964-Lamborghini-350-GT-V1-1080-1400x788.jpg",
+        "rent_price": "$250",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 32,
+        "make": "Lamborghini",
+        "model":"Diablo",
+        "year": "1990",
+        "fuel_consumption": "5.88km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/Lamborghini-Diablo-1400x788.jpg",
+        "rent_price": "$330",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 33,
+        "make": "Alfa Romeo",
+        "model":"4C Spider",
+        "year": "2015",
+        "fuel_consumption": "14.47km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 34,
+        "make": "Alfa Romeo",
+        "model":"147 GTA",
+        "year": "2003",
+        "fuel_consumption": "7.94km / 1-litre",
+        "no_of_seats": "5",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$300",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 35,
+        "make": "Toyota",
+        "model":"RAV 4",
+        "year": "2021",
+        "fuel_consumption": "6.1km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$440",
+        "fuel_type": "Hybrid",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 36,
+        "make": "BMW",
+        "model":"3 Series",
+        "year": "2019",
+        "fuel_consumption": "8.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 37,
+        "make": "Volkswagen",
+        "model":"T-Cross",
+        "year": "2020",
+        "fuel_consumption": "5.3km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$400",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 38,
+        "make": "Cadillac",
+        "model":"Escalade",
+        "year": "2020",
+        "fuel_consumption": "7.7km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$620",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 39,
+        "make": "BMW",
+        "model":"4 Series GTI",
+        "year": "2021",
+        "fuel_consumption": "7.6km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$530",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 40,
+        "make": "BMW",
+        "model":"4 Series",
+        "year": "2019",
+        "fuel_consumption": "7.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$490",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 41,
+        "make": "Lamborghini",
+        "model":"350 GT",
+        "year": "1964",
+        "fuel_consumption": "5.56km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/1964-Lamborghini-350-GT-V1-1080-1400x788.jpg",
+        "rent_price": "$250",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 42,
+        "make": "Lamborghini",
+        "model":"Diablo",
+        "year": "1990",
+        "fuel_consumption": "5.88km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/Lamborghini-Diablo-1400x788.jpg",
+        "rent_price": "$330",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 43,
+        "make": "Alfa Romeo",
+        "model":"4C Spider",
+        "year": "2015",
+        "fuel_consumption": "14.47km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 44,
+        "make": "Alfa Romeo",
+        "model":"147 GTA",
+        "year": "2003",
+        "fuel_consumption": "7.94km / 1-litre",
+        "no_of_seats": "5",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$300",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 45,
+        "make": "Toyota",
+        "model":"RAV 4",
+        "year": "2021",
+        "fuel_consumption": "6.1km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$440",
+        "fuel_type": "Hybrid",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 46,
+        "make": "BMW",
+        "model":"3 Series",
+        "year": "2019",
+        "fuel_consumption": "8.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 47,
+        "make": "Volkswagen",
+        "model":"T-Cross",
+        "year": "2020",
+        "fuel_consumption": "5.3km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$400",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 48,
+        "make": "Cadillac",
+        "model":"Escalade",
+        "year": "2020",
+        "fuel_consumption": "7.7km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$620",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 49,
+        "make": "BMW",
+        "model":"4 Series GTI",
+        "year": "2021",
+        "fuel_consumption": "7.6km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$530",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 50,
+        "make": "BMW",
+        "model":"4 Series",
+        "year": "2019",
+        "fuel_consumption": "7.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$490",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 51,
+        "make": "Lamborghini",
+        "model":"350 GT",
+        "year": "1964",
+        "fuel_consumption": "5.56km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/1964-Lamborghini-350-GT-V1-1080-1400x788.jpg",
+        "rent_price": "$250",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 52,
+        "make": "Lamborghini",
+        "model":"Diablo",
+        "year": "1990",
+        "fuel_consumption": "5.88km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2019/06/Lamborghini-Diablo-1400x788.jpg",
+        "rent_price": "$330",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Manual",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 53,
+        "make": "Alfa Romeo",
+        "model":"4C Spider",
+        "year": "2015",
+        "fuel_consumption": "14.47km / 1-litre",
+        "no_of_seats": "2",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 54,
+        "make": "Alfa Romeo",
+        "model":"147 GTA",
+        "year": "2003",
+        "fuel_consumption": "7.94km / 1-litre",
+        "no_of_seats": "5",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2015_AlfaRomeo_4CSpider-0-1024.jpg",
+        "rent_price": "$300",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+    
+    {
+        "id": 55,
+        "make": "Toyota",
+        "model":"RAV 4",
+        "year": "2021",
+        "fuel_consumption": "6.1km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$440",
+        "fuel_type": "Hybrid",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 56,
+        "make": "BMW",
+        "model":"3 Series",
+        "year": "2019",
+        "fuel_consumption": "8.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$350",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 57,
+        "make": "Volkswagen",
+        "model":"T-Cross",
+        "year": "2020",
+        "fuel_consumption": "5.3km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$400",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 58,
+        "make": "Cadillac",
+        "model":"Escalade",
+        "year": "2020",
+        "fuel_consumption": "7.7km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$620",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 59,
+        "make": "BMW",
+        "model":"4 Series GTI",
+        "year": "2021",
+        "fuel_consumption": "7.6km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$530",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    },
+
+    {
+        "id": 60,
+        "make": "BMW",
+        "model":"4 Series",
+        "year": "2019",
+        "fuel_consumption": "7.2km / 1-litre",
+        "no_of_seats": "4",
+        "Image": "https://www.supercars.net/blog/wp-content/uploads/2020/07/img_7-1400x788.jpeg ",
+        "rent_price": "$490",
+        "fuel_type": "Gasoline",
+        "transmission_type": "Automatic",
+        "favorite": false,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam sequi delectus eveniet soluta vel. Impedit tempore ex esse sed! Corporis eius iusto, laborum iure soluta sunt vitae a ipsum nesciunt at dicta, ea officia quos minima maxime alias ipsa sequi, tempora dignissimos distinctio debitis sed. Similique, ipsum. Illo, ab."
+    }
+]

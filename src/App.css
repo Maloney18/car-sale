@@ -1,0 +1,25 @@
+.hide {
+    display: none;
+}
+
+.paginate > li  {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.active {
+    font-weight: 600;
+}
+
+
+@media screen and (min-width: 768px) {
+    .hide {
+        display: flex;
+    }
+}
