@@ -39,14 +39,14 @@ const LandingPage = () => {
                     </div>
                 ) :
                 searchCars.length !== 0 ?
-                <div className='grid md:grid-col-3 gap-5 w-full'>       
+                <div className='grid md:grid-cols-3 gap-5 w-full'>       
                     {
                         searchItem.map( car => (
                             <CarItem key={car.id} details={car} />
                         ))
                     }
                 </div>  :    
-                <div className='grid md:grid-col-3 gap-5 w-full '>
+                <div className='grid md:grid-cols-3 gap-5 w-full '>
                     {       
                         displayAllCars.map( car => (
                             <CarItem key={car.id} details={car} />
